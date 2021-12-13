@@ -13,7 +13,7 @@ export default function App() {
       url: 'https://random-recipes.p.rapidapi.com/ai-quotes/' + randInt,
       headers: {
         'x-rapidapi-host': 'random-recipes.p.rapidapi.com',
-        'x-rapidapi-key': 'e89cfc6c77mshfaf64c65e174697p11b8aejsn5f586509f09f'
+        'x-rapidapi-key': 'key'
       }
     };
     
